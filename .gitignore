@@ -1,0 +1,40 @@
+# Built application files
+*.apk
+*.aab
+*.aar
+*.ap_
+
+# Java / Kotlin class files
+*.class
+
+# Generated folders
+build/
+app/build/
+bin/
+gen/
+out/
+
+# Gradle
+.gradle/
+gradle-app.setting
+
+# Local configuration (SDK path, etc.)
+local.properties
+
+# Kotlin
+.kotlin/
+
+# Logs / profiling
+*.log
+*.hprof
+
+# Android Studio / IntelliJ
+.idea/
+captures/
+.externalNativeBuild/
+.cxx/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
